@@ -3,6 +3,8 @@
 This is a Tkinter beginner project.
 
 A simple app that can calculate user's age today and which generation they belong to based on user's input (birth year, month, and day).
+Checkout the demo app here:
+https://replit.com/@JenniferLorenza/tkinter-age-generation-calculator
 
 ![Generation Timeline](./supplementary/Generation_timeline.png)
 
